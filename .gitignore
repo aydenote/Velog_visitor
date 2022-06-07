@@ -1,0 +1,6 @@
+# module
+*modules
+# setting JSON
+*.json
+# test program
+*.exe
